@@ -364,6 +364,10 @@ You have to delete any edited configuration files manually.
 
 
 # Cara Pemakaian
+1. Pendaftaran Akun (Sign Up)
+![WhatsApp Image 2025-10-17 at 20 21 30_b51ced4c](https://github.com/user-attachments/assets/71d5f72a-4c5f-4241-a732-239cc97ea7cd)
+
+Tampilan login memos untuk menggunakan fitur memos
 
 ## Tampilan Aplikasi & Fungsi Utama
 Antarmuka Memos sangat minimalis, berfokus pada kotak input dan timeline.
